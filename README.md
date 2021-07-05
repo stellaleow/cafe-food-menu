@@ -42,10 +42,6 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 3. Added Beers bucket of 6 into Drinks Menu. <br>
 ![Capture 2](https://user-images.githubusercontent.com/81385413/124371713-0242f300-dcb7-11eb-89a5-1b32e832a179.PNG)
 
-# Future plans 
-1. To add to food orders to cart and checkout(card/moblie payment/cash payment after meal) and send orders to the kitchen directly.<br>
-2. Mini clips games <br>
-
 
 
 
