@@ -15,7 +15,7 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 
 ![clone](https://user-images.githubusercontent.com/81385413/124404554-fd8d4600-dd6d-11eb-8615-7f78ca14b433.JPG)
 
-2. GitHub desktop page to update or delete info before commit to github.com, pull or push , merged and lastly deploy.<br>
+2. GitHub desktop page or visual studio to update or delete info before commit to github.com, pull or push , merged and lastly deploy.<br>
 ![use github desktop to update github online](https://user-images.githubusercontent.com/81385413/124370978-af197200-dcaf-11eb-8e8f-1d437d8c672b.PNG)
 
 
