@@ -7,7 +7,7 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 
 ![cafe-food-menu-qrcode](https://user-images.githubusercontent.com/81385413/124371248-7929bd00-dcb2-11eb-9794-155b46910232.PNG)
 
-
+https://stellaleow.github.io/cafe-food-menu/
 
 # Highlights screenshots
 1. Use Visual Studio code to create code, and clone to Github desktop. 
