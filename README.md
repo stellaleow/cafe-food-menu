@@ -21,6 +21,8 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 
 3. Merged new changes to main body (Push/Pull)
 ![changes merged commit into main](https://user-images.githubusercontent.com/81385413/124371054-ad03e300-dcb0-11eb-87f6-a3207a402c5a.PNG)
+![image](https://user-images.githubusercontent.com/81385413/124405484-59a59980-dd71-11eb-9242-065cfdf9748b.png)
+
 
 4.Deployment (Publish online)
 ![cafe-food-menu-deployment](https://user-images.githubusercontent.com/81385413/124371027-71691900-dcb0-11eb-8a87-ebf48b49db69.PNG)
