@@ -1,9 +1,12 @@
 # Cafe-food-menu
 This is a cafe website inlcude menu for dine-in customers and potential customers to view.
 
+Three branches - main (live) , history and gh.page .
+
 # Highlights
-1. Used GitHub desktop to update or delete info before commit to github.com,  pull or push , merged and lastly deploy (publish online).<br>
-2. Qr code can be scanned to get into cafe website and get cafe menu.<br>
+1. Used Visual Studio, GitHub desktop to update or delete info before commit to github.com,  pull or push , merged and lastly deploy (publish online).<br>
+2. Mobile/Desktop friendly.
+3. Qr code can be scanned to get into cafe website and get cafe menu.<br>
 
 ![cafe-food-menu-qrcode](https://user-images.githubusercontent.com/81385413/124371248-7929bd00-dcb2-11eb-9794-155b46910232.PNG)
 
