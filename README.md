@@ -10,17 +10,25 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 
 
 # Highlights screenshots
-1. GitHub desktop page to update or delete info before commit to github.com, pull or push , merged and lastly deploy.<br>
+1. Use Visual Studio code to create code, and clone to Github desktop. 
+![image](https://user-images.githubusercontent.com/81385413/124404562-0a119e80-dd6e-11eb-911a-159a224d515f.png)
+
+![clone](https://user-images.githubusercontent.com/81385413/124404554-fd8d4600-dd6d-11eb-8615-7f78ca14b433.JPG)
+
+2. GitHub desktop page to update or delete info before commit to github.com, pull or push , merged and lastly deploy.<br>
 ![use github desktop to update github online](https://user-images.githubusercontent.com/81385413/124370978-af197200-dcaf-11eb-8e8f-1d437d8c672b.PNG)
 
 
-2. Merged new changes to main body (Push/Pull)
+3. Merged new changes to main body (Push/Pull)
 ![changes merged commit into main](https://user-images.githubusercontent.com/81385413/124371054-ad03e300-dcb0-11eb-87f6-a3207a402c5a.PNG)
 
-3.Deployment (Publish online)
+4.Deployment (Publish online)
 ![cafe-food-menu-deployment](https://user-images.githubusercontent.com/81385413/124371027-71691900-dcb0-11eb-8a87-ebf48b49db69.PNG)
 
-# example for changes made
+5. Make changes can me made either from github or visual studio.
+
+
+# Example for changes made
 1. Operation hour and day changed fron Wed-Sun to Tue-Sun and 10am-12am to 10am-9pm respectively. <br>
 ![Capture 3](https://user-images.githubusercontent.com/81385413/124371701-efc8b980-dcb6-11eb-8343-af3cc67d41b1.PNG)
 
@@ -33,7 +41,8 @@ This is a cafe website inlcude menu for dine-in customers and potential customer
 
 # Future plans 
 1. To add to food orders to cart and checkout(card/moblie payment/cash payment after meal) and send orders to the kitchen directly.<br>
-2. To use firebase to host and create interactive games for customer to play while waiting for their food to be served. <br>
+2. Mini clips games <br>
+
 
 
 
